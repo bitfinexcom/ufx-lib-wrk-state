@@ -1,0 +1,9 @@
+{
+  "gw_ipfx": "bfx120",
+  "gw_esrc": "bfx120:BFX2MWPUB",
+  "shards": {
+    "bus": 2,
+    "priv": 15,
+    "sym_book": 2
+  }
+}
