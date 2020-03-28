@@ -11,9 +11,9 @@
     "bitfinex"
   ],
   "dependencies": {
-    "@bitfinex/lib-js-util-number": "0.0.14",
-    "@bitfinex/lib-js-util-symbol": "0.0.3",
-    "async": "^3.1.0",
+    "@bitfinex/lib-js-util-number": "0.0.18",
+    "@bitfinex/lib-js-util-symbol": "0.0.5",
+    "async": "^3.1.1",
     "bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git",
     "bfx-facs-interval": "https://github.com/bitfinexcom/bfx-facs-interval.git",
     "bfx-facs-lru": "https://github.com/bitfinexcom/bfx-facs-lru.git",
