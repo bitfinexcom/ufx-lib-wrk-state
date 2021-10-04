@@ -23,7 +23,6 @@
     "bfx-facs-util-shard": "https://github.com/bitfinexcom/bfx-facs-util-shard.git",
     "bfx-svc-boot-js": "https://github.com/bitfinexcom/bfx-svc-boot-js.git",
     "bfx-wrk-base": "https://github.com/bitfinexcom/bfx-wrk-base.git",
-    "bintrees": "^1.0.2",
     "lodash": "^4.17.15",
     "lru": "^3.1.0",
     "ufx-lib-hive-out-spec": "https://github.com/bitfinexcom/ufx-lib-hive-out-spec.git"
