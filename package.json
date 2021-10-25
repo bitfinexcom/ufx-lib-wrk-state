@@ -11,8 +11,6 @@
     "bitfinex"
   ],
   "dependencies": {
-    "@bitfinex/lib-js-util-number": "0.0.18",
-    "@bitfinex/lib-js-util-symbol": "0.0.5",
     "async": "^3.2.1",
     "bfx-facs-base": "https://github.com/bitfinexcom/bfx-facs-base.git",
     "bfx-facs-interval": "https://github.com/bitfinexcom/bfx-facs-interval.git",
@@ -23,6 +21,8 @@
     "bfx-facs-util-shard": "https://github.com/bitfinexcom/bfx-facs-util-shard.git",
     "bfx-svc-boot-js": "https://github.com/bitfinexcom/bfx-svc-boot-js.git",
     "bfx-wrk-base": "https://github.com/bitfinexcom/bfx-wrk-base.git",
+    "lib-js-util-number": "git+https://github.com/bitfinexcom/lib-js-util-number.git#v0.0.18",
+    "lib-js-util-symbol": "git+https://github.com/bitfinexcom/lib-js-util-symbol.git#v0.0.5",
     "lodash": "^4.17.21",
     "lru": "3.1.0",
     "ufx-lib-hive-out-spec": "https://github.com/bitfinexcom/ufx-lib-hive-out-spec.git"
